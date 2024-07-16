@@ -1,7 +1,7 @@
 {
   "name": "xrdn",
   "version": "0.1.0",
-  "homepage": "https://xrdn00.github.io/xrdn00.github.io",
+  "homepage": "https://xrdn00.github.io/xrdn00",
   "private": true,
   "scripts": {
     "dev": "next dev",
