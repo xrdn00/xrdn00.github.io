@@ -9,11 +9,11 @@ export default function Navbar() {
       </a>
       <ul class="flex justify-center items-center">
         <li class="mx-2 md:mx-4 hover:scale-105 transition-transform">
-          <a href="#" class="font-sans text-xl font-bold leading-none text-white gradient-slide">Home</a>
+          <a href="/" class="font-sans text-xl font-bold leading-none text-white gradient-slide">Home</a>
         </li>
         <li class="mx-2 md:mx-4  hover:scale-105 transition-transform">
 
-          <a href="#" class="font-sans text-xl font-bold leading-none text-white gradient-slide">Projects</a>
+          <a href="/projects" class="font-sans text-xl font-bold leading-none text-white gradient-slide">Projects</a>
         </li>
       </ul>
     </nav>
