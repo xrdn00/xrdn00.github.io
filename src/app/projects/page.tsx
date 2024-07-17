@@ -1,4 +1,4 @@
-export default function page2() {
+export default function projects() {
   return (
     <main>
       <h1>Projects</h1>
