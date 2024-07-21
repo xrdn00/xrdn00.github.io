@@ -8,12 +8,13 @@ export default function Navbar() {
       </a>
       <ul className="flex justify-center items-center">
         <li className="mx-2 md:mx-4 hover:scale-105 transition-transform">
-          <a href="/xrdn00/" className="font-sans text-xl font-bold leading-none text-white gradient-slide">Home</a>
+          <a href="/" className="font-sans text-xl font-bold leading-none text-white gradient-slide">Home</a>
         </li>
         <li className="mx-2 md:mx-4 hover:scale-105 transition-transform">
-          <a href="/xrdn00/projects" className="font-sans text-xl font-bold leading-none text-white gradient-slide">Projects</a>
+          <a href="/projects" className="font-sans text-xl font-bold leading-none text-white gradient-slide">Projects</a>
         </li>
       </ul>
     </nav>
   )
 }
+//change file dir later if you want to deploy the website online (github pages)

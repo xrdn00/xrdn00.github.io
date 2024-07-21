@@ -36,9 +36,7 @@ body::-webkit-scrollbar-thumb:hover {
     background-color: rgb(108 121 131 / var(--tw-bg-opacity));
     --tw-bg-opacity: .9
 }
-main{
-    text-align: center;
-}
+
 
 .text-green{
     color: green;
