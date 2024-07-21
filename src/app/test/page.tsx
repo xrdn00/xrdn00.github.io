@@ -1,6 +1,4 @@
 import { CardDemo1 } from "../components/ui/card1";
-import { CardDemo2 } from "../components/ui/card2";
-import { CardDemo3 } from "../components/ui/card3";
 
 export default function Page() {
   return (
@@ -10,12 +8,20 @@ export default function Page() {
           <CardDemo1 />
         </div>
         <div className="w-full sm:w-1/2 lg:w-1/3 p-2">
-          <CardDemo2 />
+          <CardDemo1 />
         </div>
         <div className="w-full sm:w-1/2 lg:w-1/3 p-2">
-          <CardDemo3 />
+          <CardDemo1 />
         </div>
-
+        <div className="w-full sm:w-1/2 lg:w-1/3 p-2">
+          <CardDemo1 />
+        </div>
+        <div className="w-full sm:w-1/2 lg:w-1/3 p-2">
+          <CardDemo1 />
+        </div>
+        <div className="w-full sm:w-1/2 lg:w-1/3 p-2">
+          <CardDemo1 />
+        </div>
       </div>
     </main>
   );
