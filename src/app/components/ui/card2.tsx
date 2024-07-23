@@ -65,16 +65,13 @@ export function CardDemo2() {
           "transition-all duration-500"
         )}
       >
-        <div className="text relative z-50">
+        <div className="text relative z-50 opacity-0 group-hover:opacity-100 transition-opacity duration-500">
           <h1 className="font-bold text-xl md:text-3xl text-gray-50 relative">
             Shield-Ed+: Safety & Prevention App
           </h1>
           <p className="font-normal text-base text-gray-50 relative my-4">
             Protecting Your School Community
           </p>
-          <div className='flex flex-row items-center'>
-            <AnimatedTooltip items={build} />
-          </div>
         </div>
       </div>
     </div>
