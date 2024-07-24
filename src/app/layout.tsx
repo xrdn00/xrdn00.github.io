@@ -10,8 +10,8 @@ import Footer from "./components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "xrdn00 Github",
-  description: "xrdn00 github projects",
+  title: "xrdn00 Github Page",
+  description: "xrdn00 github page",
 };
 
 export default function RootLayout({
