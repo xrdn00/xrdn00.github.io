@@ -25,7 +25,7 @@ const skills1 = [
         id: 4,
         name: "Express",
         designation: "Framework",
-        image: "/img/express.png",
+        image: "/img/expressjs.png",
     }
 ];
 
