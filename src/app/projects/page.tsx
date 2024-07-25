@@ -7,7 +7,7 @@ export default function Page() {
   const build1 = [
     {
       id: 1,
-      name: "Javascript",
+      name: "Python",
       designation: "Programming Language",
       image:
         "/img/python.png",
