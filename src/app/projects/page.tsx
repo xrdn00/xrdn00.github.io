@@ -54,7 +54,7 @@ export default function Page() {
       name: "Expressjs",
       designation: "Web Framework",
       image:
-        "/img/express.png",
+        "/img/expressjs.png",
     }
   ];
   const build3 = [
