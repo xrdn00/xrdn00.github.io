@@ -12,7 +12,7 @@ export default function Home() {
           <p>And I can also do some front end stuff</p>
           <p></p>
         </blockquote>
-        <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold ml-4 md:ml-8 lg:ml-16 p-4 md:p-6 lg:p-8 text-white">Skills</h1>
+        <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold ml-4 md:ml-8 lg:ml-16 p-4 md:p-6 lg:p-8 text-white">Programming Skills</h1>
         <Skills />
         <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold ml-4 md:ml-8 lg:ml-16 p-4 md:p-6 lg:p-8 text-white">Frameworks</h1>
         <Frameworks />
