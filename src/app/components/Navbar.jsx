@@ -1,5 +1,3 @@
-import Script from "next/script";
-
 export default function Navbar() {
   return (
     <nav className="flex justify-between container p-6 md:p-8">
