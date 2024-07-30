@@ -38,10 +38,7 @@ body::-webkit-scrollbar-thumb:hover {
 }
 
 
-.text-green{
-    color: green;
-}
-.gradient-slide {
+.orange-slide {
     background-image: linear-gradient(to right,var(--tw-gradient-stops));
     --tw-gradient-from: #f97316;
     --tw-gradient-to: rgb(249 115 22 / 0);
@@ -53,7 +50,7 @@ body::-webkit-scrollbar-thumb:hover {
     -webkit-background-clip: text;
     transition: color .2s ease-in-out
 }
-.gradient-slide:hover {
+.orange-slide:hover {
     color: #0000
 }
 
