@@ -3,4 +3,4 @@
 ### my first nextjs react app
 https://xrdn00.github.io/
 
-UI/UX lib: https://ui.aceternity.com/
+UI/UX components lib: https://ui.aceternity.com/
