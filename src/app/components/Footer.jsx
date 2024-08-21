@@ -37,3 +37,5 @@ export default function Footer() {
     </footer>
   )
 }
+
+//Nice footer template from flowbite.com
