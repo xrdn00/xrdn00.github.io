@@ -26,6 +26,12 @@ const skills1 = [
         name: "Express",
         designation: "Framework",
         image: "/img/expressjs.png",
+    },
+    {
+        id: 5,
+        name: "Laravel",
+        designation: "Framework",
+        image: "/img/Laravel.png"
     }
 ];
 

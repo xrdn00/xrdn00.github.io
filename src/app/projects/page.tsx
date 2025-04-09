@@ -1,6 +1,7 @@
 import { CardDemo1 } from "../components/ui/card1";
 import { CardDemo2 } from "../components/ui/card2";
 import { CardDemo3 } from "../components/ui/card3";
+import { CardDemo4 } from "../components/ui/card4";
 import { AnimatedTooltip } from "../components/ui/animated-tooltip";
 
 export default function Page() {
@@ -118,6 +119,11 @@ export default function Page() {
           <CardDemo3 />
           <h1 className="flex justify-left ml-2 py-2 text-white">Build</h1>
           <div className="flex justify-left py-1"><AnimatedTooltip items={build3} /></div>
+        </div>
+        <div className="w-full sm:w-1/2 lg:w-1/3 p-2">
+          <CardDemo4 />
+          <h1 className="flex justify-left ml-2 py-2 text-white">Build</h1>
+          <div className="flex justify-left py-1"><AnimatedTooltip items={build1} /></div>
         </div>
         
 
